@@ -119,7 +119,7 @@ Cognevance_Enterprise_Automation/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git https://github.com/karthikdheeraj12-bot/cognevance_enterprise_automation_and_data_processing_system.git
 ```
 
 ### Step 2: Navigate to the Project Directory
